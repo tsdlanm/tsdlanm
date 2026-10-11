@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/github/followers/tsdlanm?style=social" alt="Followers" />
 <img src="https://img.shields.io/github/stars/tsdlanm?style=social" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=tsdlanm&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+
 
 </div>
 
