@@ -18,3 +18,13 @@
 <img src="https://komarev.com/ghpvc/?username=tsdlanm&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
+
+<h1 align="center">🐍 Snake</h1>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tsdlanm/tsdlanm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tsdlanm/tsdlanm/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tsdlanm/tsdlanm/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
